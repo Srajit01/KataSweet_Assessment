@@ -2,8 +2,6 @@
 
 A comprehensive full-stack application for managing a sweet shop built using Test-Driven Development (TDD) principles. The system includes a robust backend API with Node.js/TypeScript and a modern React frontend.
 
-![Sweet Shop Management System](https://images.pexels.com/photos/1684718/pexels-photo-1684718.jpeg?auto=compress&cs=tinysrgb&w=1200)
-
 ## 🚀 Features
 
 ### Backend API
@@ -321,9 +319,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📞 Support
 
 For support and questions:
-- Create an issue in the GitHub repository
-- Contact: [your-email@example.com]
-
----
-
-**Built with ❤️ using modern web technologies and Test-Driven Development principles.**
+- Contact: [srajitbhardwaj@gmail.com]
